@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>List Noun JavaScript</title>
+	<script>
+	function showItems() {
+		var items = planets;
+		var printThis = "";
+
+		for(var i = 0; i < items.length; i++) {
+			printThis += "<br>" + items[i];
+		}
+
+		return printThis; // Returns string to be printed to the div
+	}
+	</script>
+</head>
+
+<body onload="document.getElementById('demo').innerHTML = showItems();">
+	<p>List Noun JavaScript</p>
+	<p id="demo"></p>
+</body>
+
+<script src="../Lists/Planets/planets.js"> </script>
+
+</html>
