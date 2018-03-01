@@ -34,7 +34,7 @@ Here are some things you can do with a list.
 Granted, even though there are a growing number of astronomers arguing that [Pluto isn't a planet](https://en.wikipedia.org/wiki/Planet#21st_century), we're counting it as one.
 
 #### Plaintext (Command Line)
-`cat planets.md`
+`cat planets.txt`
 
 The above example will output:
 
@@ -50,7 +50,7 @@ Neptune
 Pluto
 ```
 
-`sort planets.md`
+`sort planets.txt`
 
 The above example will output:
 
@@ -117,10 +117,10 @@ git clone https://github.com/broeneatsdinner/list-noun
 
 ## Inspiration
 
-Constellations  
+Constellations
 [GitHub Repository](https://github.com/pirtleshell/constellations)
 
-List of Last Names in PHP Array  
+List of Last Names in PHP Array
 [GitHub Gist](https://gist.github.com/subodhghulaxe/8148971)
 
 ## Contributing
