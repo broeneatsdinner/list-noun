@@ -3,27 +3,19 @@ Adjustable Grip Hitch
 Albright Special
 Alternate Ring Hitching
 Anchor Bend
-Anchor Bend
 Angler's Loop
 Arbor Knot
 Artillery Loop
-Artillery Loop
-Artillery Loop
 Ashley's Bend
-Ashley's Stopper Knot
 Ashley's Stopper Knot
 Axle Hitch
 Bachmann Knot
 Bag Knot
 Bait Loop
 Bale Sling Hitch
-Bale Sling Hitch
 Bale Sling Hitch Or Strap Hitch
 Barrel Hitch
-Barrel Hitch
 Barrel Knot
-Barrel Knot
-Barrel Sling
 Barrel Sling
 Basket Weave Knot
 Becket Hitch
@@ -31,7 +23,6 @@ Beer Knot
 Bimini Twist
 Blackwall Hitch
 Blake's Hitch
-Blood Knot
 Blood Knot
 Blood Loop Knot
 Boa Knot
@@ -43,12 +34,10 @@ Bowen Knot
 Bowline
 Bowline On A Bight
 Bumper Knot
-Bumper Knot
 Bunny Ears
 Buntline Hitch
 Butterfly Bend
 Butterfly Coil
-Butterfly Loop
 Butterfly Loop
 Carrick Bend
 Carrick Bend Loop
@@ -68,16 +57,12 @@ Constrictor Knot
 Continuous Ring Hitching
 Corned Beef Knot
 Cow Hitch
-Cow Hitch
 Cow Hitch And Bowline
-Cowboy Bowline
-Cowboy Bowline
 Cowboy Bowline
 Cross Constrictor Knot
 Crown Knot
 Diagonal Lashing
 Diamond Knot
-Directional Figure Eight
 Directional Figure Eight
 Distel Hitch
 Dogshank
@@ -90,14 +75,12 @@ Double Figure Eight
 Double Figure Eight Bend
 Double Figure-eight Loop
 Double Fisherman's Knot
-Double Fisherman's Knot
 Double Loop
 Double Overhand Knot
 Double Overhand Noose
 Double Pile Hitch
 Double Sheet Bend
 Double Windsor
-Dropper Loop
 Dropper Loop
 Dutch Marine Bowline
 Egg Loop
@@ -113,11 +96,8 @@ Figure-eight Knot
 Figure-eight Loop
 Figure-of-nine Loop
 Fireman's Chair Knot
-Fireman's Chair Knot
 Fisherman's Bend
 Fisherman's Knot
-Fisherman's Knot
-Flemish Bend
 Flemish Bend
 Flemish Knot
 French Bowline
@@ -140,14 +120,12 @@ Halter Hitch
 Halyard Bend
 Handcuff Knot
 Hangman's Knot
-Hangman's Knot
 Hangman's Noose
 Harness Bend
 Harness Hitch
 Heaving Line Bend
 Heraldic Knot
 Highpoint Hitch
-Highwayman's Hitch
 Highwayman's Hitch
 Hitching Tie
 Honda Knot
@@ -160,7 +138,6 @@ Inline Figure-eight Loop
 Italian Hitch
 Jack Ketch's Knot
 Jamming Knot
-Jug Sling
 Jug Sling
 Jury Mast Knot
 Karash Double Loop
@@ -183,16 +160,12 @@ Marlinespike Hitch
 Matthew Walker Knot
 Midshipman's Hitch
 Miller's Knot
-Miller's Knot
 Monkey's Fist
 Mountaineer's Coil
-Munter Hitch
 Munter Hitch
 Nail Knot
 Noose
 Offset Figure-eight Bend
-One-sided Overhand Bend
-One-sided Overhand Bend
 One-sided Overhand Bend
 Ossel Hitch
 Overhand Bend
@@ -215,7 +188,6 @@ Prusik Knot
 Quick-release Knot
 Racking Bend
 Reef Knot
-Reef Knot
 Reever Knot
 Rigger's Bend
 Rigid Double Splayed Loop In The Bight
@@ -223,8 +195,6 @@ Ring Bend
 Ring Hitch
 Ring Knot
 Ringbolt Hitching
-Ringbolt Hitching
-Rolling Hitch
 Rolling Hitch
 Rosendahl Bend
 Round Lashing
@@ -248,7 +218,6 @@ Simple Simon Under
 Single Carrick Bend
 Single Hitch
 Slip Knot
-Slip Knot
 Slipped Buntline Hitch
 Slipped Half Hitch
 Slippery Eight Loop
@@ -263,16 +232,12 @@ Square Lashing
 Square Turk's Head
 Stein Knot
 Stevedore Knot
-Stevedore Knot
 Strangle Knot
 Strap Hitch
 Surgeon's Knot
 Surgeon's Loop
-Surgeon's Loop
 Tape Knot
 Tarbuck Knot
-Taut-line Hitch
-Taut-line Hitch
 Taut-line Hitch
 Tensionless Hitch
 Tent Hitch
@@ -289,9 +254,7 @@ Triple Bowline
 Triple Crown Knot
 Triple Fisherman's Knot
 Trucker's Hitch
-Trucker's Hitch
 True Lover's Knot
-Tugboat Hitch
 Tugboat Hitch
 Turle Knot
 Twined Turk's Head
@@ -304,16 +267,11 @@ Versatackle Knot
 Vibration-proof Hitch
 Wagoner's Hitch
 Wall And Crown Knot
-Wall And Crown Knot
 Water Bowline
-Water Knot
-Water Knot
-Water Knot
 Water Knot
 Waterman's Knot
 West Country Whipping
 Windsor Knot
 Yosemite Bowline
-Zeppelin Bend
 Zeppelin Bend
 Zeppelin Loop
